@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Repo Languages and Tools"/>
   <br><br>
   <a href="https://www.buymeacoffee.com/jharrison94"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">  
-</p>
 
 <h1 align="center">🔧 Repo Languages and Tools</h1>
- 
-<p align="center">
   <br>
   
 [![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)](https://www.gnu.org/software/bash/)
@@ -46,11 +43,6 @@
 [![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)](https://www.atlassian.com/software/jira)
 [![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)](https://www.cloudflare.com/)
 
-
-</p>
-
 <br>
-
-<p align="center">
 <a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=80&section=footer"/></a>
 </p>
