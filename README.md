@@ -31,5 +31,5 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=80&section=footer"/></a>
+<a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=80&section=footer"/></a>
 </p>
