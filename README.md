@@ -4,7 +4,7 @@
   <br><br>
   <a href="https://www.buymeacoffee.com/jharrison94"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">  
 
-<h1 align="center">🔧 Repo Languages and Tools</h1>
+<h1 align="center">🔧 Proficiencies</h1>
   <br>
   
 [![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)](https://www.gnu.org/software/bash/)
