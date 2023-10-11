@@ -27,6 +27,8 @@
   <a href="https://grafana.com/"><img src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana" /></a>
   <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus" /></a>
 
+[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)](https://www.linux.org/)
+
 [![GNU Bash](https://img.shields.io/static/v1?style=for-the-badge&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![PowerShell](https://img.shields.io/static/v1?style=for-the-badge&message=PowerShell&color=5391FE&logo=PowerShell&logoColor=FFFFFF&label=)](https://docs.microsoft.com/en-us/powershell/)
@@ -43,12 +45,13 @@
 [![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)](https://git-scm.com/)
 
 [![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)](https://code.visualstudio.com/)
+
 [![Atlassian](https://img.shields.io/static/v1?style=for-the-badge&message=Atlassian&color=0052CC&logo=Atlassian&logoColor=FFFFFF&label=)](https://www.atlassian.com/)
 [![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)](https://www.atlassian.com/software/jira)
 
 [![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)](https://www.cloudflare.com/)
 
-[![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)](https://www.linux.org/)
+
 </p>
 
 <br>
