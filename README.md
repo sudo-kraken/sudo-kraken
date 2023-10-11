@@ -1,5 +1,9 @@
+
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Joe%20Harrison&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Platform%20Architect&descAlignY=51&descAlign=70)](https://joeharrison94.github.io/Docs/)
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jharrison94)
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jharrison94"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Repo Languages and Tools"/>
