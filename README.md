@@ -1,9 +1,6 @@
 <p align="center">
   <a href="https://sudo-kraken.github.io/docs/"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=250&section=header&text=Joe%20Harrison&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Senior%20Site%20Reliability%20Developer&descAlignY=51&descAlign=65">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" alt="Repo Languages and Tools"/>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/jharrison94"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">  
-
 <h1 align="center">🔧 Proficiencies</h1>
   <br>
 
@@ -43,6 +40,9 @@
 [![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)](https://www.atlassian.com/software/jira)
 [![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)](https://www.cloudflare.com/)
 
+                                                                             
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jharrison94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
 <br>
 <p align="center">
 <a href="https://github.com/kyechan99/capsule-render" title="Footer"><img align="center" alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=80&section=footer"/></a>
