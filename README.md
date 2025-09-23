@@ -40,7 +40,9 @@
 [![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)](https://www.atlassian.com/software/jira)
 [![Cloudflare](https://img.shields.io/static/v1?style=for-the-badge&message=Cloudflare&color=F38020&logo=Cloudflare&logoColor=FFFFFF&label=)](https://www.cloudflare.com/)
 
-                                                                             
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudo-kraken&show_icons=true&hide_title=true&count_private=true&theme=github_dark)
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/jharrison94" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
 <br>
