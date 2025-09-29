@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sudo-kraken&show_icons=true&hide_title=true&count_private=true&theme=github_dark" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudo-kraken&theme=github-dark" alt="Streak" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sudo-kraken&theme=onedark" alt="Trophies" height="200"/>
 </p>
 
 ---
