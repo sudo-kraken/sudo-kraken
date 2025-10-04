@@ -1,7 +1,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://sudo-kraken.github.io/docs/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=250&section=header&text=Joe%20Harrison&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Senior%20Site%20Reliability%20Developer&descAlignY=51&descAlign=65&width=1000" alt="Header" style="max-width:1000px;"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=250&section=header&text=Joe%20Harrison&fontSize=90&animation=fadeIn&fontAlignY=36&desc=Principle%20Site%20Reliability%20Developer&descAlignY=51&descAlign=65&width=1000" alt="Header" style="max-width:1000px;"/>
   </a>
 </p>
 
