@@ -49,10 +49,12 @@ Seerr represents my commitment to open, community-driven reliability engineering
 
 | Project | Description |
 |----------|-------------|
+| [**podcheck**](https://github.com/sudo-kraken/podcheck) | A CLI tool to automate Podman image updates or notify when updates are available. Selective updates, exclude containers, custom labels, notification plugins, prune when done etc. |
 | [**terraform-gcp-ubuntu-container-ready-e2-micro-vm**](https://github.com/sudo-kraken/terraform-gcp-ubuntu-container-ready-e2-micro-vm) | Terraform module for deploying a container-ready Ubuntu VM on GCP. |
 | [**oci-free-terraform-a1-max**](https://github.com/sudo-kraken/oci-free-terraform-a1-max) | Automate free-tier ARM instance deployments on Oracle Cloud with Terraform. |
 | [**authentik-webfinger-proxy**](https://github.com/sudo-kraken/authentik-webfinger-proxy) | WebFinger endpoint for Tailscale SSO to integrate with an Authentik instance. |
 | [**k3s-cluster-maintenance**](https://github.com/sudo-kraken/k3s-cluster-maintenance) | Automation for maintaining k3s clusters with zero downtime. |
+| [**jellyfin-plugin-audiotagger**](https://github.com/sudo-kraken/jellyfin-plugin-audiotagger) | An automatic audio tagging plugin for Jellyfin that analyses movie audio streams and adds descriptive tags based on channel layout, codec and audio quality. |
 
 *See more on my [repositories](https://github.com/sudo-kraken?tab=repositories).*
 
