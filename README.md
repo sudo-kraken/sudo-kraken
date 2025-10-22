@@ -123,7 +123,8 @@ Seerr represents my commitment to open, community-driven reliability engineering
 - Driving DevOps and SRE standardisation across open and enterprise environments
 
 ---
-
+<div align=center>
+  
 ## 💬 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/j-p-harrison/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -141,6 +142,7 @@ Seerr represents my commitment to open, community-driven reliability engineering
 </p>
 
 ---
+</div>
 
 <!-- Footer -->
 <p>
