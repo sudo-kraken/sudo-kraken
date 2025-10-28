@@ -28,8 +28,8 @@ When I’m not developing automation frameworks or optimising CI/CD, I’m usual
 
 ## 🧩 Open Source Contributions
 
-### **Seerr - Core Team Member (Automation & CI/CD Lead)**  
-[**Seerr**](https://github.com/seerr-team/seerr) is an open-source media request and discovery platform that integrates with Plex, Jellyfin, and Emby, supporting automation tools like Sonarr, Radarr, and Overseerr.
+### **Seerr - Core Team Member (Automation & CI/CD)**  
+[**Seerr**](https://github.com/seerr-team/seerr) is an open-source media request and discovery platform that integrates with Plex, Jellyfin, and Emby, supporting automation tools like Sonarr and Radarr.
 
 As part of the **core Seerr team**, I focus on maintaining and improving the project’s **automation, CI/CD pipelines, and developer workflows**.  
 My contributions includes:
